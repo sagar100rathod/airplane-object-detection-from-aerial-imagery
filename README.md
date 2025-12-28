@@ -5,6 +5,10 @@
 This repository demonstrates an end-to-end workflow for detecting airplanes in satellite imagery using a lightweight YOLOv11n object detection model.
 To improve detection performance on small and sparsely distributed objects, the project applies SAHI (Slicing Aided Hyper Inference) during inference.
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/sagar100rathod/airplane-object-detection-from-aerial-imagery/blob/main/End-to-End-YOLOv11-finetuning.ipynb
+)
+
 ## 📌 Overview
 
 Detecting airplanes in satellite or aerial imagery is challenging due to:
